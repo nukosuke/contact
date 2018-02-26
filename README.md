@@ -2,6 +2,8 @@
 
 nukosuke <nukosuke@lavabit.com>
 
+https://keybase.io/nukosuke
+
 ## PGP public key
 use `/nukosuke.gpg` (binary) or `/nukosuke.gpg.asc` (ascii)
 
